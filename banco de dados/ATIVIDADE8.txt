@@ -1,0 +1,8 @@
+atividade Eql
+
+A)DDL
+B)DDL
+c)DCL
+D)DQL
+E)DML
+F)DML
