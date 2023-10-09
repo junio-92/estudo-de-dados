@@ -7,7 +7,7 @@ alter table companheiros
 add  codigo int first; 
 
 alter table companheiros
-modify column profissao varchar (30)
+modify column profissao varchar (30) not null default '';
 
 alter table companheiros
 drop column profissao;
