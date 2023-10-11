@@ -9,5 +9,5 @@ ano year default '2023'
 
 drop table tabelaqualquer
 
-/* mostrando como se pagaga uma tabela */
+/* mostrando como se agaga uma tabela */
 /* pode-se usar o comando 'if' */
